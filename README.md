@@ -179,5 +179,6 @@ WHERE NOT EXISTS (
 **Ajay Chidarla**
 Python Developer (Fresher) | Hyderabad, India
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@ajaychidarla143] (https://github.com/ajaychidarla143)
+- LinkedIn: [Ajay chidarla] (www.linkedin.com/in/
+ajay-chidarla-aa3733253)
