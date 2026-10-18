@@ -1,10 +1,10 @@
--- Creating a database
+-- Creating a DATABASE
 create database Employee_Management_System;
 
 
 use employee_Management_System;
 
--- creating a table
+-- creating a TABLE
 create table Departments(
 Department_ID INT PRIMARY KEY,
 Department_Name VARCHAR(50) NOT NULL,
